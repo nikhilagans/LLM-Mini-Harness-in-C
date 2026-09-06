@@ -492,5 +492,5 @@ The program compiled successfully and passed all 23 automated tests.
 
 ## 7. Reflection
 
-In this project I learned the importance and effiecency of giving AI a very detailed SSD prompt. Spending the time to create this prompt led to minimal 
+In this project I learned the importance and effiecency of giving AI a very detailed SDD prompt. Spending the time to create this prompt led to minimal 
 errors in the compiling of the code.
