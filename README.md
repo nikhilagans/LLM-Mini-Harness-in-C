@@ -135,12 +135,12 @@ Run the tests:
 Final testing result:
 
 ```text
-Passed: 22
+Passed: 23
 Failed: 0
 All tests passed.
 ```
 
-The automated tests verify model responses, calculator operations, invalid input handling, conversation history, the five-turn history limit, exit behavior, EOF handling, and overlong input handling.
+The automated tests verify model responses, calculator operations, invalid input handling, conversation history, the five-turn history limit, exit behavior, EOF handling, overlong input handling, and basic memory leaks using Valgrind.
 
 ## Project Files
 
